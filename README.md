@@ -6,7 +6,7 @@ This project leverages the power of Stable Diffusion for image generation, enhan
 
 ### Key Components:
 1. **Stable Diffusion Image Generation**: Utilizes [Stable Diffusion](https://huggingface.co/stabilityai/stable-diffusion-2-1) for generating high-quality images based on textual descriptions.
-2. **CLIP Score**: Measures the similarity between generated images and prompts, as proposed by Radford et al., 2021. More details can be found [here](https://huggingface.co/yuvalkirstain/PickScore_v1).
+2. **CLIP Score**: Measures the similarity between generated images and prompts, as proposed by Radford et al., 2021. 
 3. **Aesthetic Score**: Evaluates the aesthetic quality of individual images following the methodology of Schuhmann et al., 2022. Implementation details are available on [GitHub](https://github.com/LAION-AI/aesthetic-predictor).
-4. **PickScore**: A metric developed by Kirstain et al., 2023, trained to align with human preferences in image quality.
+4. **PickScore**: A metric developed by Kirstain et al., 2023, trained to align with human preferences in image quality. More details can be found [here](https://huggingface.co/yuvalkirstain/PickScore_v1).
 
